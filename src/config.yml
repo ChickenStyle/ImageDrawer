@@ -1,0 +1,16 @@
+
+blockedTypes:
+  - "SAND"
+  - "POWDER"
+  - "CARPET"
+  - "BOX"
+  - "STRUCTURE"
+  - "RESPAWN"
+  - "CORAL"
+  - "BEE"
+  - "AIR"
+  - "BARRIER"
+  - "ANVIL"
+  - "DRAGON_EGG"
+  - "GRAVEL"
+  - "JIGSAW"

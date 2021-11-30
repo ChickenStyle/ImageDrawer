@@ -1,0 +1,17 @@
+blockedBlocks:
+  - "AIR"
+  - "BARRIER"
+  - "ANVIL"
+  - "DRAGON_EGG"
+  - "GRAVEL"
+  - "JIGSAW"
+
+blockedTypes:
+  - "SAND"
+  - "POWDER"
+  - "CARPET"
+  - "BOX"
+  - "STRUCTURE"
+  - "RESPAWN"
+  - "CORAL"
+  - "BEE"

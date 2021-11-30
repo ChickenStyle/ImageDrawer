@@ -1,0 +1,9 @@
+name: ImageDrawer
+main: me.chickenstyle.imagedrawer.Main
+description: poggers!
+api-version: 1.17
+version: 1.0
+author: ChickenStyle
+commands:
+  draw:
+    description: Plugin's main command
