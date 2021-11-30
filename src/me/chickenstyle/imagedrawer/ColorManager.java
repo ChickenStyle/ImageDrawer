@@ -25,7 +25,7 @@ public class ColorManager {
         A: for (Material material : Material.values()) {
             String mat = material.toString();
            for (String str : blockedTypes){
-               if (mat.contains(str)) {
+               if (mat.contains(str.toUpperCase())) {
                    continue A;
                }
            }
